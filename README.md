@@ -1,2 +1,2 @@
 # Hexadecimal-to-decimal-c-program
-Conversion from Hexadecimal to Decimal number system. Hexadecimal number system provides convenient way of converting large binary numbers into more compact and smaller groups. These are weights of hexadecimal of respective position of hexadecimal (value of base is 16).
+Whereas Hexadecimal number is one of the number systems which has value is 16 and it has only 16 symbols: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 and A, B, C, D, E, F. Where A, B, C, D, E and F are single bit representations of decimal value 10, 11, 12, 13, 14 and 15 respectively. Whereas Decimal system is most familiar number system to the general public. It is base 10 which has only 10 symbols: 0, 1, 2, 3, 4, 5, 6, 7, 8 and 9.
